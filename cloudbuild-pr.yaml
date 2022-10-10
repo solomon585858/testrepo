@@ -8,4 +8,4 @@ steps:
         echo "****************************"
         echo "$BRANCH_NAME"
         echo "****************************"
-        sddfdsg || exit 1
+        echo "Success" || exit 1
